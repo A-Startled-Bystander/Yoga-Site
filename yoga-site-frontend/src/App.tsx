@@ -1,8 +1,10 @@
+import AnimationScroll from './AnimationScrollExample/AnimationScroll';
 import './App.css'
 
 function App() {
 	return (
-		<div>HELLO</div>
+		// <div>HELLO</div>
+		<AnimationScroll />
 	);
 }
 
